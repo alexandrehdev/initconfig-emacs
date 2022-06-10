@@ -17,8 +17,7 @@
 ;;(set-face-attribute 'default nil :height 150)
 (set-frame-font "Envy Code R Bold 17" nil t)
 
-(global-company-mode)
-(global-auto-complete-mode)
+
 ;;(emmet-mode)
 
 
